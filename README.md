@@ -7,6 +7,5 @@ Designer, refiner, developer — building practical PHP/Laravel tools.
 
 #### Now
 - Open-source contributions (Laravel / Spatie docs & fixes)
-- Sponsoring maintainers who ship tools I use daily
 
 Thanks for stopping by — stars and issues on **sql-powertools** are welcome.
