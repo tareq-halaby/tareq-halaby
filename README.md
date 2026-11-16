@@ -10,6 +10,7 @@ Working across design and development since the 2000s. Currently building with P
 
 - **Identity** — brand systems and logo design
 - **Interfaces** — web design, UX, and digital products
+- **Inclusive design** — accessibility (a11y) and internationalization (i18n)
 - **Engineering** — PHP, Laravel, JavaScript, and MySQL
 - **Exploration** — practical uses of AI in design and development
 
