@@ -22,7 +22,7 @@ My work spans different tools and technologies, including PHP, Laravel, JavaScri
 
 An open-source tool for safely cloning, sampling, exporting, and backing up MySQL databases. It includes sensitive-data masking and secure credential handling.
 
-Open source is a meaningful part of how I work: I enjoy improving software with other people, from careful fixes and documentation to substantial feature work. In [WordCraft](https://github.com/storytold/wordcraft), one example is my contribution toward an Arabic interface, including a mirrored right-to-left layout and localization parity documentation ([pull request #5370](https://github.com/storytold/wordcraft/pull/5370)). I also contribute documentation and fixes across the Laravel and Spatie ecosystems.
+Open source is a meaningful part of how I work: I enjoy improving software with other people, from careful fixes and documentation to substantial feature work. In [WordCraft](https://github.com/storytold/wordcraft), I helped bring Arabic interface support and a mirrored right-to-left layout to the project ([merged pull request #5370](https://github.com/storytold/wordcraft/pull/5370)). In [PhotoCraft](https://github.com/storytold/photocraft), I added controls for OpenType numeral styles ([merged pull request #11051](https://github.com/storytold/photocraft/pull/11051)).
 
 ## Elsewhere
 
