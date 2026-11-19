@@ -14,15 +14,22 @@ I've worked across design and development since the 2000s. My practice moves bet
 - **Build** — turning designs into working, maintainable software
 - **Explore** — practical, human-centered uses of AI
 
-My work spans different tools and technologies, including PHP, Laravel, JavaScript, and MySQL. The problem and the people using the result come first.
-
 ## Featured work
 
 ### [SQL PowerTools](https://github.com/tareq-halaby/sql-powertools)
 
 An open-source tool for safely cloning, sampling, exporting, and backing up MySQL databases. It includes sensitive-data masking and secure credential handling.
 
-Open source is a meaningful part of how I work: I enjoy improving software with other people, from careful fixes and documentation to substantial feature work. Recent merged contributions include Arabic interface and right-to-left layout work in [WordCraft](https://github.com/storytold/wordcraft/pull/5370), OpenType numeral controls in [PhotoCraft](https://github.com/storytold/photocraft/pull/11051), and app pinning and reordering in [Craft Launcher](https://github.com/storytold/craft-launcher/pull/1149).
+## Open source
+
+I enjoy contributing to open-source projects, from focused fixes to substantial product work. Recent merged contributions include:
+
+- **[WordCraft](https://github.com/storytold/wordcraft/pull/5370)** — Arabic interface localization and right-to-left layout.
+- **PhotoCraft** — [OpenType numeral controls](https://github.com/storytold/photocraft/pull/11051) and [preserving advanced text settings in PSD files](https://github.com/storytold/photocraft/pull/10313).
+- **Craft Launcher** — [pinning and reordering apps](https://github.com/storytold/craft-launcher/pull/1149), followed by [direct pin controls on app cards](https://github.com/storytold/craft-launcher/pull/1226).
+- **PhotoCraft, DesignCraft, EffectCraft** — [modifier-click tool switching](https://github.com/storytold/photocraft/pull/10301) carried across three products.
+
+[Browse my merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Atareq-halaby+is%3Amerged).
 
 ## Elsewhere
 
